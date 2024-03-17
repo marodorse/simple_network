@@ -7,6 +7,6 @@
 
 *Pending things to do*
 * Add NAT
-* ACLs
-* VACLs
+* Add ACLs
+* Add VACLs
 ##### **Link to live** : https://github.com/marodorse/simple_network/blob/438c4028c4dd83efb760ad7956b5cb24cf184fa4/simple_network.pkt
